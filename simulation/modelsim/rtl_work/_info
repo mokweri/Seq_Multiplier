@@ -1,0 +1,211 @@
+m255
+K3
+13
+cModel Technology
+Z0 dG:\Msc.ECE\COURSE WORK\ECE 503 Advanced Digital Integrated Circuits\FPGA Labs - Verilog\Quartus Projects\Seq_Multiplier\simulation\modelsim
+vAdder_4bit
+IGjSUa@hZ5@ABYNlLdoMc90
+Vcm1b1P98WQTAc3zV]]e5S0
+Z1 dG:\Msc.ECE\COURSE WORK\ECE 503 Advanced Digital Integrated Circuits\FPGA Labs - Verilog\Quartus Projects\Seq_Multiplier\simulation\modelsim
+Z2 w1684028742
+Z3 8G:/Msc.ECE/COURSE WORK/ECE 503 Advanced Digital Integrated Circuits/FPGA Labs - Verilog/Quartus Projects/Seq_Multiplier/Adder_4bit.v
+Z4 FG:/Msc.ECE/COURSE WORK/ECE 503 Advanced Digital Integrated Circuits/FPGA Labs - Verilog/Quartus Projects/Seq_Multiplier/Adder_4bit.v
+L0 4
+Z5 OV;L;10.1d;51
+r1
+31
+Z6 !s108 1684834462.745000
+Z7 !s107 G:/Msc.ECE/COURSE WORK/ECE 503 Advanced Digital Integrated Circuits/FPGA Labs - Verilog/Quartus Projects/Seq_Multiplier/Adder_4bit.v|
+Z8 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+G:/Msc.ECE/COURSE WORK/ECE 503 Advanced Digital Integrated Circuits/FPGA Labs - Verilog/Quartus Projects/Seq_Multiplier|G:/Msc.ECE/COURSE WORK/ECE 503 Advanced Digital Integrated Circuits/FPGA Labs - Verilog/Quartus Projects/Seq_Multiplier/Adder_4bit.v|
+Z9 o-vlog01compat -work work -O0
+Z10 !s92 -vlog01compat -work work {+incdir+G:/Msc.ECE/COURSE WORK/ECE 503 Advanced Digital Integrated Circuits/FPGA Labs - Verilog/Quartus Projects/Seq_Multiplier} -O0
+n@adder_4bit
+!i10b 1
+!s100 ^cZL:ANkk>eYNeW6K^nVJ1
+!s85 0
+!s101 -O0
+vcounter
+I;Xi@R_>P2V>Pe`0e4XJF;1
+Vh0S3I;GOL4QJjI=4gG0CZ3
+R1
+Z11 w1684833176
+Z12 8G:/Msc.ECE/COURSE WORK/ECE 503 Advanced Digital Integrated Circuits/FPGA Labs - Verilog/Quartus Projects/Seq_Multiplier/Seq_Multiplier.v
+Z13 FG:/Msc.ECE/COURSE WORK/ECE 503 Advanced Digital Integrated Circuits/FPGA Labs - Verilog/Quartus Projects/Seq_Multiplier/Seq_Multiplier.v
+L0 101
+R5
+r1
+31
+Z14 !s108 1684834461.986000
+Z15 !s107 G:/Msc.ECE/COURSE WORK/ECE 503 Advanced Digital Integrated Circuits/FPGA Labs - Verilog/Quartus Projects/Seq_Multiplier/Seq_Multiplier.v|
+Z16 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+G:/Msc.ECE/COURSE WORK/ECE 503 Advanced Digital Integrated Circuits/FPGA Labs - Verilog/Quartus Projects/Seq_Multiplier|G:/Msc.ECE/COURSE WORK/ECE 503 Advanced Digital Integrated Circuits/FPGA Labs - Verilog/Quartus Projects/Seq_Multiplier/Seq_Multiplier.v|
+R9
+R10
+!i10b 1
+!s100 @`OU`1]YKU5_ccg0hFFn;0
+!s85 0
+!s101 -O0
+vDFF_clrn
+I>8_PADg2<YD_][K0LEi=@2
+VCj;CZldnJ?c^MfSYkYO<z3
+R1
+R11
+R12
+R13
+L0 141
+R5
+r1
+31
+R14
+R15
+R16
+R9
+R10
+n@d@f@f_clrn
+!i10b 1
+!s100 izgW9ECB^YMh7_M0I9m>?1
+!s85 0
+!s101 -O0
+vDFF_en
+IWCV`mdJK>KW6GO;6L:fJM0
+V9F1GCz7EL=V6e]B?KSzN[1
+R1
+Z17 w1683975048
+Z18 8G:/Msc.ECE/COURSE WORK/ECE 503 Advanced Digital Integrated Circuits/FPGA Labs - Verilog/Quartus Projects/Seq_Multiplier/Register_4bit.v
+Z19 FG:/Msc.ECE/COURSE WORK/ECE 503 Advanced Digital Integrated Circuits/FPGA Labs - Verilog/Quartus Projects/Seq_Multiplier/Register_4bit.v
+L0 20
+R5
+r1
+31
+Z20 !s108 1684834462.264000
+Z21 !s107 G:/Msc.ECE/COURSE WORK/ECE 503 Advanced Digital Integrated Circuits/FPGA Labs - Verilog/Quartus Projects/Seq_Multiplier/Register_4bit.v|
+Z22 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+G:/Msc.ECE/COURSE WORK/ECE 503 Advanced Digital Integrated Circuits/FPGA Labs - Verilog/Quartus Projects/Seq_Multiplier|G:/Msc.ECE/COURSE WORK/ECE 503 Advanced Digital Integrated Circuits/FPGA Labs - Verilog/Quartus Projects/Seq_Multiplier/Register_4bit.v|
+R9
+R10
+n@d@f@f_en
+!i10b 1
+!s100 iKZPA@gEP@JFDMK0U>9m?2
+!s85 0
+!s101 -O0
+vfull_adder
+IeQLni628IWn9nY=c3e1k52
+V;]mXLjhGW_^3jAgBQ3RD31
+R1
+R2
+R3
+R4
+L0 24
+R5
+r1
+31
+R6
+R7
+R8
+R9
+R10
+!i10b 1
+!s100 gn<obQZgg6da?[aWo:zT91
+!s85 0
+!s101 -O0
+vRegister_4bit
+I22GE_<Yl7OJRI?Z1mk3;^2
+VDHQ20l2Q9cf8VgFHRPd>E2
+R1
+R17
+R18
+R19
+L0 5
+R5
+r1
+31
+R20
+R21
+R22
+R9
+R10
+n@register_4bit
+!i10b 1
+!s100 SBH?3h_54XLdGL[9I;F0b1
+!s85 0
+!s101 -O0
+vSeq_Multiplier
+IPo4;KTPiUPzzlU4J@22`:2
+VZM:=^?`G<E@6fl9XdCiMe0
+R1
+R11
+R12
+R13
+L0 2
+R5
+r1
+31
+R14
+R15
+R16
+R9
+R10
+n@seq_@multiplier
+!i10b 1
+!s100 EH7z7;I`fzP75=_hRXUGD1
+!s85 0
+!s101 -O0
+vSeq_Multiplier_tb
+!i10b 1
+!s100 <dYgh0M9^Y^A7D?J9Qgh;1
+IAgea_=YB?Eabbl_z87ZL21
+VVmf3iCbDIdLR`^<=;h_XC2
+R1
+w1684829227
+8G:/Msc.ECE/COURSE WORK/ECE 503 Advanced Digital Integrated Circuits/FPGA Labs - Verilog/Quartus Projects/Seq_Multiplier/Seq_Multiplier_tb.v
+FG:/Msc.ECE/COURSE WORK/ECE 503 Advanced Digital Integrated Circuits/FPGA Labs - Verilog/Quartus Projects/Seq_Multiplier/Seq_Multiplier_tb.v
+L0 7
+R5
+r1
+!s85 0
+31
+!s108 1684834462.937000
+!s107 G:/Msc.ECE/COURSE WORK/ECE 503 Advanced Digital Integrated Circuits/FPGA Labs - Verilog/Quartus Projects/Seq_Multiplier/Seq_Multiplier_tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+G:/Msc.ECE/COURSE WORK/ECE 503 Advanced Digital Integrated Circuits/FPGA Labs - Verilog/Quartus Projects/Seq_Multiplier|G:/Msc.ECE/COURSE WORK/ECE 503 Advanced Digital Integrated Circuits/FPGA Labs - Verilog/Quartus Projects/Seq_Multiplier/Seq_Multiplier_tb.v|
+!s101 -O0
+R9
+R10
+n@seq_@multiplier_tb
+vshift_reg
+IzZWaEDJY]`a3M323li8kS2
+VOJfh`FibboQ;4nBMUD<3W0
+R1
+w1684031852
+8G:/Msc.ECE/COURSE WORK/ECE 503 Advanced Digital Integrated Circuits/FPGA Labs - Verilog/Quartus Projects/Seq_Multiplier/shift_reg.v
+FG:/Msc.ECE/COURSE WORK/ECE 503 Advanced Digital Integrated Circuits/FPGA Labs - Verilog/Quartus Projects/Seq_Multiplier/shift_reg.v
+L0 2
+R5
+r1
+31
+R9
+R10
+!i10b 1
+!s100 X3G66k9cQY>UDOW7;K:4R1
+!s85 0
+!s108 1684834462.455000
+!s107 G:/Msc.ECE/COURSE WORK/ECE 503 Advanced Digital Integrated Circuits/FPGA Labs - Verilog/Quartus Projects/Seq_Multiplier/shift_reg.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+G:/Msc.ECE/COURSE WORK/ECE 503 Advanced Digital Integrated Circuits/FPGA Labs - Verilog/Quartus Projects/Seq_Multiplier|G:/Msc.ECE/COURSE WORK/ECE 503 Advanced Digital Integrated Circuits/FPGA Labs - Verilog/Quartus Projects/Seq_Multiplier/shift_reg.v|
+!s101 -O0
+vshift_reg_si
+IH5WT3O?m;9P^e]m04A7?82
+VYiI_3a2d=<aA7gdJ5ShOM1
+R1
+w1683972632
+8G:/Msc.ECE/COURSE WORK/ECE 503 Advanced Digital Integrated Circuits/FPGA Labs - Verilog/Quartus Projects/Seq_Multiplier/shift_reg_si.v
+FG:/Msc.ECE/COURSE WORK/ECE 503 Advanced Digital Integrated Circuits/FPGA Labs - Verilog/Quartus Projects/Seq_Multiplier/shift_reg_si.v
+L0 1
+R5
+r1
+31
+R9
+R10
+!i10b 1
+!s100 I=AaFZ^F<8a`N234fdXJZ2
+!s85 0
+!s108 1684834462.576000
+!s107 G:/Msc.ECE/COURSE WORK/ECE 503 Advanced Digital Integrated Circuits/FPGA Labs - Verilog/Quartus Projects/Seq_Multiplier/shift_reg_si.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+G:/Msc.ECE/COURSE WORK/ECE 503 Advanced Digital Integrated Circuits/FPGA Labs - Verilog/Quartus Projects/Seq_Multiplier|G:/Msc.ECE/COURSE WORK/ECE 503 Advanced Digital Integrated Circuits/FPGA Labs - Verilog/Quartus Projects/Seq_Multiplier/shift_reg_si.v|
+!s101 -O0

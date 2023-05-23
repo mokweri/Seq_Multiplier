@@ -1,0 +1,42 @@
+onerror {resume}
+quietly WaveActivateNextPane {} 0
+add wave -noupdate /Seq_Multiplier_tb/clk
+add wave -noupdate /Seq_Multiplier_tb/resetn
+add wave -noupdate /Seq_Multiplier_tb/start
+add wave -noupdate -radix unsigned -childformat {{{/Seq_Multiplier_tb/uut/state_reg[1]} -radix decimal} {{/Seq_Multiplier_tb/uut/state_reg[0]} -radix decimal}} -subitemconfig {{/Seq_Multiplier_tb/uut/state_reg[1]} {-radix decimal} {/Seq_Multiplier_tb/uut/state_reg[0]} {-radix decimal}} /Seq_Multiplier_tb/uut/state_reg
+add wave -noupdate /Seq_Multiplier_tb/a
+add wave -noupdate /Seq_Multiplier_tb/b
+add wave -noupdate /Seq_Multiplier_tb/p
+add wave -noupdate /Seq_Multiplier_tb/uut/LD_PL
+add wave -noupdate /Seq_Multiplier_tb/uut/Clr_PH
+add wave -noupdate /Seq_Multiplier_tb/uut/LD_Cnt
+add wave -noupdate /Seq_Multiplier_tb/uut/PL/D
+add wave -noupdate /Seq_Multiplier_tb/uut/PL/load
+add wave -noupdate /Seq_Multiplier_tb/uut/PL/Q
+add wave -noupdate -radix decimal -childformat {{{/Seq_Multiplier_tb/uut/count[2]} -radix decimal} {{/Seq_Multiplier_tb/uut/count[1]} -radix decimal} {{/Seq_Multiplier_tb/uut/count[0]} -radix decimal}} -subitemconfig {{/Seq_Multiplier_tb/uut/count[2]} {-height 15 -radix decimal} {/Seq_Multiplier_tb/uut/count[1]} {-height 15 -radix decimal} {/Seq_Multiplier_tb/uut/count[0]} {-height 15 -radix decimal}} /Seq_Multiplier_tb/uut/count
+add wave -noupdate /Seq_Multiplier_tb/uut/Dec_cnt
+add wave -noupdate /Seq_Multiplier_tb/uut/LD_PH
+add wave -noupdate /Seq_Multiplier_tb/uut/Shft_Rt
+add wave -noupdate /Seq_Multiplier_tb/uut/sum
+add wave -noupdate /Seq_Multiplier_tb/uut/Adder/a
+add wave -noupdate /Seq_Multiplier_tb/uut/Adder/b
+add wave -noupdate /Seq_Multiplier_tb/uut/Adder/cin
+add wave -noupdate /Seq_Multiplier_tb/uut/E
+TreeUpdate [SetDefaultTree]
+WaveRestoreCursors {{Cursor 1} {389509 ps} 0}
+quietly wave cursor active 1
+configure wave -namecolwidth 201
+configure wave -valuecolwidth 100
+configure wave -justifyvalue left
+configure wave -signalnamewidth 0
+configure wave -snapdistance 10
+configure wave -datasetprefix 0
+configure wave -rowmargin 4
+configure wave -childrowmargin 2
+configure wave -gridoffset 0
+configure wave -gridperiod 1
+configure wave -griddelta 40
+configure wave -timeline 0
+configure wave -timelineunits ns
+update
+WaveRestoreZoom {0 ps} {389509 ps}
